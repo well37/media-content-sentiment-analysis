@@ -14,6 +14,10 @@ The project combines qualitative annotation with quantitative text analysis to p
 - Approximately 500 news articles collected from a diverse set of North American news outlets
 - Articles were annotated for topics and sentiment following a predefined coding guide
 
+### Data & Resources
+- `coding_data.csv`: Annotated news articles used for topic and sentiment analysis.
+- `stopwords.txt`: Custom stopword list used during text preprocessing.
+
 ## Methodology
 - Open coding to define key thematic categories
 - Manual annotation of articles for topic and sentiment
